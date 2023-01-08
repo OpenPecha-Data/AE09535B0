@@ -1,0 +1,19 @@
+id: AE09535B0
+title: Palchen Düpa Lineage Prayer
+type: translation
+pechas:
+- I206666AA
+- I95685106
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 12:42:15.589203
+  last_modified_at: 2023-01-04 12:42:15.589225
+  collections:
+  - Jigme Lingpa Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  I206666AA/19D8: 6DC5
+  I95685106/30F7: 6DC5
